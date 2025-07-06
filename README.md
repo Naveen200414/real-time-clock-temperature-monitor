@@ -1,6 +1,6 @@
 # Real-Time Clock and Temperature Monitoring System
 
-This project simulates a real-time temperature monitoring system using an Arduino Uno, DS1307 RTC, DS18B20 temperature sensor, and a 16x2 I2C LCD display. If the temperature exceeds a predefined threshold (30°C), a warning LED is triggered, and a message is displayed on the LCD.
+This project simulates a real-time temperature monitoring system using an Arduino Uno, DS1307 RTC, DS18B20 temperature sensor, and a 16x2 I2C LCD display. If the temperature exceeds a predefined threshold (30°C), a warning LED is triggered, and a message is displayed on the LCD. Link to the project: https://wokwi.com/projects/435387799425219585
 
 ## Project Aim
 
